@@ -73,7 +73,7 @@ Web-based audio analysis tool running entirely in the browser — no uploads, no
 ### Waveform
 Stereo split-lane waveform showing peak envelope per time bin. Left and right channels drawn in separate lanes with a shared centre line.
 
-![Waveform visualization](../assets/Waveform.png)
+![Waveform visualization](assets/Waveform.png)
 
 - **Colour coding:** Teal = safe, orange = hot, red = clip risk
 - **RMS dashed reference lines** showing time-averaged loudness
@@ -84,8 +84,8 @@ Stereo split-lane waveform showing peak envelope per time bin. Left and right ch
 ### Spectrogram
 Full FFT spectrogram with bilinear interpolation for smooth time/frequency resolution.
 
-![Spectrogram visualization](../assets/Spectrogram.png)
-![Multi-channel support](../assets/multi-channels-support.png)
+![Spectrogram visualization](assets/Spectrogram.png)
+![Multi-channel support](assets/multi-channels-support.png)
 
 - **Multi-channel support:** Per-channel tabs for multichannel files (>2ch); LFE channel highlighted separately
 - **5 colour palettes:** Spek (default), Jet/Rainbow, Magma, Inferno, Viridis
@@ -98,7 +98,7 @@ Full FFT spectrogram with bilinear interpolation for smooth time/frequency resol
 ### Spatial Metadata Overlay (MPEG-H OAM)
 Top-down 360° polar diagram showing object positions. Rendered from MPEG-H OAM (Object Audio Metadata) in the bitstream.
 
-![Spatial metadata overlay](../assets/Spatial%20information.png)
+![Spatial metadata overlay](assets/Spatial%20information.png)
 
 - **Dot size** encodes elevation (larger = higher)
 - **Opacity** encodes gain (0–100%)
