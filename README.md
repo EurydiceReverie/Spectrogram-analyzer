@@ -401,4 +401,11 @@ This app runs **100% client-side**. No data is ever sent to a server. Audio file
 
 ## License
 
-This project is released as-is for educational and personal use. See individual decoder licenses above. The Audio Veritas code is MIT licensed.
+This project is licensed under the [MIT License](./LICENSE).
+This project is released as-is for **educational and personal use**.
+
+- Core project: MIT License  
+- Audio Veritas components: MIT License  
+- External decoders: See their respective licenses  
+
+> ⚠️ Some audio decoders (e.g., Dolby, MPEG-H) may be proprietary and subject to their own licensing terms.
